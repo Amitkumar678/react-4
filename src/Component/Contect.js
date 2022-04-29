@@ -4,7 +4,7 @@ import React from 'react'
 const Contect = () => {
 // const { fnamee } =useParams()
   return (
-    <div><h1>THIS IS CONTECT PAGE  </h1></div>
+    <div><h1 style={{"text-align":"center"}}>THIS IS CONTECT PAGE  </h1></div>
   )
 }
 
