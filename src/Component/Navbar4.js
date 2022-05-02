@@ -1,18 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 
-const getactive=(isActive)=>{
-  if(isActive){
-    return {
-    color:"orange"
-    }
-  }
-  else{
-    return{
-      color:"blue"
-     }  
-  }
-}
+
 const Navbar4 = () => {
   return (
     <div className='navbtn'>
